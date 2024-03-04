@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gabei</title>
+</head>
+<body>
+    <form action="/gabei/add-minyan" method="post">
+        <div>
+        <input type="text" name="cheider" id="cheider">
+    </div>
+    <div name="times">
+        <input type="time" name="bruchois" id="bruchois-time">
+        <input type="time" name="hoidy" id="hoidy-time">
+    </div>
+    <div>
+        <button type="submit">submit</button>
+    </div>
+    </form>
+    <div>
+        <button onclick="appendViewPage()">View The Minyunim</button>
+    </div>
+    <div id="view"></div>
+<script src="../javascript/gabei.js"></script>
+</body>
+</html>

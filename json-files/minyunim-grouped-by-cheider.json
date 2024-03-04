@@ -1,0 +1,178 @@
+{
+    "א": [
+        {
+            "cheider": "א",
+            "bruchois": "06:50",
+            "hoidy": "07:00",
+            "id": "1"
+        },
+        {
+            "cheider": "א",
+            "bruchois": "07:50",
+            "hoidy": "08:00",
+            "id": "2"
+        },
+        {
+            "cheider": "א",
+            "bruchois": "08:50",
+            "hoidy": "09:00",
+            "id": "3"
+        },
+        {
+            "cheider": "א",
+            "bruchois": "09:50",
+            "hoidy": "10:00",
+            "id": "4"
+        },
+        {
+            "cheider": "א",
+            "bruchois": "10:50",
+            "hoidy": "11:00",
+            "id": "5"
+        },
+        {
+            "cheider": "א",
+            "bruchois": "11:50",
+            "hoidy": "12:00",
+            "id": "6"
+        },
+        {
+            "cheider": "א",
+            "bruchois": "15:50",
+            "hoidy": "16:00",
+            "id": "28"
+        }
+    ],
+    "ב": [
+        {
+            "cheider": "ב",
+            "bruchois": "07:05",
+            "hoidy": "07:15",
+            "id": "7"
+        },
+        {
+            "cheider": "ב",
+            "bruchois": "08:05",
+            "hoidy": "08:15",
+            "id": "8"
+        },
+        {
+            "cheider": "ב",
+            "bruchois": "09:05",
+            "hoidy": "09:15",
+            "id": "9"
+        },
+        {
+            "cheider": "ב",
+            "bruchois": "10:05",
+            "hoidy": "10:15",
+            "id": "10"
+        },
+        {
+            "cheider": "ב",
+            "bruchois": "11:05",
+            "hoidy": "11:15",
+            "id": "11"
+        },
+        {
+            "cheider": "ב",
+            "bruchois": "12:05",
+            "hoidy": "12:15",
+            "id": "12"
+        },
+        {
+            "cheider": "ב",
+            "bruchois": "14:05",
+            "hoidy": "14:15",
+            "id": "27"
+        }
+    ],
+    "ג": [
+        {
+            "cheider": "ג",
+            "bruchois": "07:20",
+            "hoidy": "07:30",
+            "id": "13"
+        },
+        {
+            "cheider": "ג",
+            "bruchois": "08:20",
+            "hoidy": "08:30",
+            "id": "14"
+        },
+        {
+            "cheider": "ג",
+            "bruchois": "09:20",
+            "hoidy": "09:30",
+            "id": "15"
+        },
+        {
+            "cheider": "ג",
+            "bruchois": "10:20",
+            "hoidy": "10:30",
+            "id": "16"
+        },
+        {
+            "cheider": "ג",
+            "bruchois": "11:20",
+            "hoidy": "11:30",
+            "id": "17"
+        },
+        {
+            "cheider": "ג",
+            "bruchois": "12:20",
+            "hoidy": "12:30",
+            "id": "18"
+        },
+        {
+            "cheider": "ג",
+            "bruchois": "14:20",
+            "hoidy": "14:30",
+            "id": "26"
+        }
+    ],
+    "ד": [
+        {
+            "cheider": "ד",
+            "bruchois": "07:35",
+            "hoidy": "07:45",
+            "id": "19"
+        },
+        {
+            "cheider": "ד",
+            "bruchois": "08:35",
+            "hoidy": "08:45",
+            "id": "20"
+        },
+        {
+            "cheider": "ד",
+            "bruchois": "09:35",
+            "hoidy": "09:45",
+            "id": "21"
+        },
+        {
+            "cheider": "ד",
+            "bruchois": "10:35",
+            "hoidy": "10:45",
+            "id": "22"
+        },
+        {
+            "cheider": "ד",
+            "bruchois": "11:35",
+            "hoidy": "11:45",
+            "id": "23"
+        },
+        {
+            "cheider": "ד",
+            "bruchois": "12:35",
+            "hoidy": "12:45",
+            "id": "24"
+        },
+        {
+            "cheider": "ד",
+            "bruchois": "14:35",
+            "hoidy": "14:45",
+            "id": "25"
+        }
+    ]
+}

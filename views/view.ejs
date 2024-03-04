@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<div class="right-to-left">
+    <%  %>
+    <% for(let cheider in Minyunim){
+        let cheiderMinyunim = Minyunim[cheider]%>
+        <table>
+    <%for(let minyan of cheiderMinyunim){%>
+        <tr>
+    <td><%= myFunctions.convertTo12HrFormat(minyan.bruchois) %></td>
+    <td><%= myFunctions.convertTo12HrFormat(minyan.hoidy) %></td>
+    </tr>
+       <%}%> </table><%}%>
+    </div>
+</body>
+</html>

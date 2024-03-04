@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://registry.npmjs.org/express",
+            "request": "launch",
+            "url": "https://registry.npmjs.org/express"
+        }
+    ]
+}
